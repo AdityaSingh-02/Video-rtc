@@ -26,7 +26,7 @@ const Login = () => {
             Login - VideoCalls
           </h1>
           <p className="text-gray-400">
-            Don't Have a account?{" "}
+            Don't Have an account?{" "}
             <button
               onClick={() => router.push("/signup")}
               className="text-red-500"

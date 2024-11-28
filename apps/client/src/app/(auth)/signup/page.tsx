@@ -27,7 +27,7 @@ const Signup = () => {
             SignUp - VideoCalls
           </h1>
           <p className="text-gray-400">
-            Have a account already?{" "}
+            Already have an account?{" "}
             <button
               onClick={() => router.push("/login")}
               className="text-red-500"
